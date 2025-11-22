@@ -1,0 +1,2 @@
+Author: Matthew Tan
+Purpose: This is an assignment demonstrating the use of Bootstrap classes on an existing starter-files, where the goal is to only modify the index.html and create the 3 column layout as displayed on the reference picture.
